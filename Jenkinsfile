@@ -1,4 +1,5 @@
 node {
+	//Sample pipeline job
 	stage 'Checkout'
 		checkout scm
 
